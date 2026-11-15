@@ -1,6 +1,6 @@
 cask "ctxgraph" do
-  version "0.1.0"
-  sha256 "9c00208609898a712426b1a20bf59324e15d5d5c5a74ff04ec2e7fe4820681bd"
+  version "0.1.1"
+  sha256 "003e46e33dfe16391692644abda052bb60ca14a086ac577a44bd477ec74ac6ce"
 
   url "https://github.com/groothaha/ctx-graph/releases/download/v#{version}/CtxGraph-#{version}.zip"
   name "CtxGraph"
