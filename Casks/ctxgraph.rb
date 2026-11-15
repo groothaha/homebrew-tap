@@ -7,7 +7,7 @@ cask "ctxgraph" do
   desc "Link Claude Code conversations so their context flows between them"
   homepage "https://github.com/groothaha/ctx-graph"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "CtxGraph.app"
 
